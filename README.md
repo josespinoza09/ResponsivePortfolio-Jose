@@ -5,4 +5,4 @@ It was done with the best practices of bootrstrap elements and custom css.
 
 ![contact](Assets/contact.png?raw=true "Contact Me")
 ![index](Assets/index.png?raw=true "About Me")
-![portfolio](Assets/portfolio?raw=true "Portfolio")
+![portfolio](Assets/portfolio.png?raw=true "Portfolio")
